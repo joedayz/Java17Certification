@@ -1,4 +1,4 @@
-package pe.joedayz.certification;
+package pe.joedayz.certification.buildingblocks;
 /**
  * La clase {@code Calculadora} proporciona métodos para realizar operaciones matemáticas básicas 
  * como suma, resta, multiplicación y división.

@@ -1,4 +1,4 @@
-package pe.joedayz.certification;
+package pe.joedayz.certification.buildingblocks;
 
 import java.nio.file.Files;
 import java.nio.file.Paths;  

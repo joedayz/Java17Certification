@@ -1,4 +1,4 @@
-package pe.joedayz.certification;
+package pe.joedayz.certification.buildingblocks;
 
 public class Animal {
 	

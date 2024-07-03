@@ -1,6 +1,6 @@
 
 // linea 1
-package pe.joedayz.certification;
+package pe.joedayz.certification.buildingblocks;
 
 /*
     linea 4. //comentario inutil 
