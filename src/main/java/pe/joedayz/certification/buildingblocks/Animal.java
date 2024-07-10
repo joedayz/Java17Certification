@@ -2,7 +2,7 @@ package pe.joedayz.certification.buildingblocks;
 
 public class Animal {
 	
-	String name;
+	String name; //variables de instancia - instance variable
 
 	public  static final void main(final String[] args){
 		System.out.println(args[0]);
